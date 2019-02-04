@@ -1,0 +1,12 @@
+1. Graph Theory
+   > Multigraph - A graph which have more than one edge between two vertices.
+     -> Fow what purpose we need multiple edges?
+   > hypergraph
+   > pseudograph
+   > Pseudepigraph
+   
+   
+2. Graph Databases & Libraries
+   > Spark GraphX
+   > Neo4j
+   
