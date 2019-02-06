@@ -5,7 +5,10 @@
    > pseudograph
    > Pseudepigraph
    
-   
+Property Graph Model - It's a grap[h model in which we will have Nodes,Relationship & Properties(data stored on nodes / relationship). 
+
+
+
 2. Graph Databases & Libraries
    > Spark GraphX
    > Neo4j
